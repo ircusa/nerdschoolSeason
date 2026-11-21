@@ -1,4 +1,5 @@
-Practice checklist
+Practice checklist 
 - Check the current branch.
--Review the diff before staging.
+- Review the diff before staging.
 - Review the staged snapshot before commiting.
+- Read the checklist after merging.
