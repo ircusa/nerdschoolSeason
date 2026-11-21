@@ -2,4 +2,3 @@ Practice checklist
 - Check the current branch.
 -Review the diff before staging.
 - Review the staged snapshot before commiting.
-- Skip the review before committing.
