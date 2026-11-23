@@ -4,3 +4,4 @@ Practice checklist
 - Review the staged snapshot before committing.
 - Read the checklist after merging.
 - Inspect incoming changes before integrating.
+- Review the pull request diff and checks before merging.
